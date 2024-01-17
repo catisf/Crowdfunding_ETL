@@ -7,7 +7,7 @@ This project is part of the UoB Analyses Bootcamp. The main aim of the project w
 <p align="center">
   <img src = "https://github.com/catisf/Crowdfunding_ETL/blob/main/sql_database/crowdfunding_erd.png" height = "75%" width = "75%">
 </p>
-Fig1 - Entity Relationship Diagram (ERD) for the Crowdfunding database
+                                                    Fig1 - Entity Relationship Diagram (ERD) for the Crowdfunding database
 
 ## Repository structure:
 This repository contains:
