@@ -35,7 +35,7 @@ This repository contains:
   - check the data has been imported correctly by running [the code](https://github.com/catisf/Crowdfunding_ETL/blob/main/sql_database/display_data.sql) in the sql_database folder.
  
  
-# Authors
+## Authors
 The following authors worked collaboratively on this project:
 - [Catarina Ferreira](https://github.com/catisf)
 - [Elcin Kobya Imanci](https://github.com/ELCINKOBYAIMANCI)
