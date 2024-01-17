@@ -19,8 +19,9 @@ This repository contains:
 1. Jupyter notebook:
 - To run the jupyter notebook you will need to install the following packages:
    - jupyter notebook `pip install notebook`
-   - numpy `pip install numpy`
    - pandas `pip install pandas`
+   - numpy `pip install numpy`
+   - json `pip install jsons`
 
 2. SQL database:
 - In order to create the database:
