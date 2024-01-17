@@ -17,7 +17,7 @@ This repository contains:
 
 ## Set up and execution
 1. Jupyter notebook:
-   To run the jupyter notebook you will need to install the following packages:
+- To run the jupyter notebook you will need to install the following packages:
    - jupyter notebook `pip install notebook`
    - numpy `pip install numpy`
    - pandas `pip install pandas`
